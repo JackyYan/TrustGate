@@ -223,7 +223,7 @@ $(document).ready(function() {
 						$("<div />").addClass("formOverlay").appendTo($(this));
 								var curForm = jQuery(this);
 								$.ajax({
-										url: 'indexform_hdl.php',
+										url: 'indexform_hdl2.php',
 										type: 'POST',
 										data: jQuery(curForm).serialize(),
 										success: function(data) {
