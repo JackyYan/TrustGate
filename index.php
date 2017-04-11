@@ -150,13 +150,13 @@ $page = 'Home';
 	                data-duration="600"
 	                data-delay="700"
 	                data-ease="easeOutExpo">
-                        Alternative To
+                        Secure Transaction
                     </h1>
                     <h3 class="ms-layer captiontext" data-type="text"   data-effect="bottom(20)"
 	                data-duration="600"
 	                data-delay="1000"
 	                data-ease="easeOutExpo">
-                        Security
+                        Trusted Business
                     </h3>
 
                     <!-- <a class="ms-layer btn btn-default hvr-shutter-in-horizontal scroll"  href="#contact"  data-effect="bottom(20)"
@@ -390,7 +390,7 @@ $page = 'Home';
 			</div>
 			<div class="col-sm-8">
 				<div class="expMessage"></div>
-				<form method="post" class="form-inline bottom-contact-form wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" action="indexform_hdl2.php">
+				<form method="post" class="form-inline bottom-contact-form wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" action="indexform_hdl.php">
 								<input placeholder="Name" name="name" type="text" class="form-control" required>
 								<input placeholder="Email" name="email" type="email" class="form-control" required>
 								<input placeholder="Contact Number" name="hp" type="text" class="form-control" required>

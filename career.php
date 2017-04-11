@@ -96,7 +96,7 @@ $page = 'career';
 
 								           Tel: +603 8318 1800<br>
 								</p>
-								<p>Please do not hesitate to contact us if any inquiry. Web admin for Trustgate will be Encik Ikmal & Encik Rusli.</p>
+								
 						</div>
         </div>
     </div>
