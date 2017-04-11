@@ -390,7 +390,7 @@ $page = 'Home';
 			</div>
 			<div class="col-sm-8">
 				<div class="expMessage"></div>
-				<form method="post" class="form-inline bottom-contact-form wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" action="indexform_hdl.php">
+				<form method="post" class="form-inline bottom-contact-form wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" action="indexform_hdl2.php">
 								<input placeholder="Name" name="name" type="text" class="form-control" required>
 								<input placeholder="Email" name="email" type="email" class="form-control" required>
 								<input placeholder="Contact Number" name="hp" type="text" class="form-control" required>
